@@ -1,10 +1,10 @@
 export const metaData = {
   baseUrl: "https://nextfolio-template.vercel.app/",
-  title: "Nextfolio",
-  name: "Sirius",
-  ogImage: "/opengraph-image.png",
+  title: "Web Development",
+  name: "Daniel Yu",
+  ogImage: "https://static.vecteezy.com/system/resources/previews/002/099/443/non_2x/programming-code-coding-or-hacker-background-programming-code-icon-made-with-binary-code-digital-binary-data-and-streaming-digital-code-vector.jpg",
   description:
-    "A clean, fast, and lightweight portfolio template built with Next.js, Vercel, and Tailwind CSS for optimal performance.",
+    "Daniel Yu is a beginner coder looking to improve everyday.",
 };
 
 export const socialLinks = {
