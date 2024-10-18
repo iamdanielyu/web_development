@@ -7,10 +7,10 @@ export interface Project {
 
 export const projects: Project[] = [
   {
-    title: "Project One",
-    year: 2023,
+    title: "Coding History",
+    year: 2024,
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laboriosam veritatis dolorem rem praesentium dicta labore, at laudantium quisquam.",
+      "Attending UCSB as first year studying Computer Science. Learning Python and C++ as of right now. Has prior experience with Python and JavaScript.",
     url: "https://example.com/",
   },
   {
