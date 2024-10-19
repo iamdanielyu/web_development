@@ -8,23 +8,23 @@ export interface Project {
 export const projects: Project[] = [
   {
     title: "Coding History",
-    year: 2024,
+    year: 2024-2028,
     description:
       "Attending UCSB as first year studying Computer Science. Learning Python and C++ as of right now. Has prior experience with Python and JavaScript.",
-    url: "https://example.com/",
+    url: "https://cs.ucsb.edu/",
   },
   {
-    title: "Project Two",
-    year: 2022,
+    title: "Some Projects I've Done",
+    year: 2024,
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laboriosam veritatis dolorem rem praesentium dicta labore, at laudantium quisquam.",
-    url: "https://example.com/",
+      "I have been doing mostly projects from freeCodeCamp and am planning to do my own projects in the future.",
+    url: "https://codepen.io/your-work",
   },
   {
-    title: "Project Three",
-    year: 2021,
+    title: "Connections",
+    year: 2024-????,
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laboriosam veritatis dolorem rem praesentium dicta labore, at laudantium quisquam.",
+      "Looking to learn more about computers in general and create connections in the industry.",
     url: "https://example.com/",
   },
 ];
