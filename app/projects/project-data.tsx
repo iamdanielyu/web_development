@@ -8,7 +8,7 @@ export interface Project {
 export const projects: Project[] = [
   {
     title: "Coding History",
-    year: 2024-2028,
+    year: 2022,
     description:
       "Attending UCSB as first year studying Computer Science. Learning Python and C++ as of right now. Has prior experience with Python and JavaScript.",
     url: "https://cs.ucsb.edu/",
@@ -22,7 +22,7 @@ export const projects: Project[] = [
   },
   {
     title: "Connections",
-    year: 2024-????,
+    year: 2025,
     description:
       "Looking to learn more about computers in general and create connections in the industry.",
     url: "https://example.com/",
